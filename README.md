@@ -1,3 +1,9 @@
+Using Context API , useEffect, Fetch & Axios methods fetching data from mockAPI .
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
